@@ -3,3 +3,4 @@ pkg/
 .yardoc/
 *.swp
 *.gem
+Gemfile.lock
